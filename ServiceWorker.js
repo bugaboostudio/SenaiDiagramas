@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-JogoDosDiagramasSenai-1.1.6";
+const cacheName = "DefaultCompany-JogoDosDiagramasSenai-1.1.7";
 const contentToCache = [
     "Build/SenaiDiagramas.loader.js",
     "Build/SenaiDiagramas.framework.js",
